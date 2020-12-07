@@ -1,4 +1,4 @@
-.img-fluid {
-    max-width: 100%;
-    height: auto;
+.container {
+    display: flex;
+    justify-content: center;
 }
